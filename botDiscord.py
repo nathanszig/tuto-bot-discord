@@ -3,7 +3,7 @@ from discord.ext import commands
 import requests
 from bs4 import BeautifulSoup
 
-token = "OTM2MjkwNjI2NDE5NDQ1ODMw.YfLCmA.DSCS33ujeDQlOBW_lfNDuZzhz-E"
+token = "YOUR TOKEN"
 bot = commands.Bot(command_prefix="%")
 
 @bot.command()
